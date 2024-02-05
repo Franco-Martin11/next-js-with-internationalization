@@ -1,0 +1,14 @@
+.eslintrc.cjs
+.prettierrc
+package.json
+pnpm-lock.yaml
+README.md
+tsconfig.json
+node_modules
+.next
+next-env.d.ts
+postcss.config.js
+index.html
+src/globals.css
+.gitignore
+tailwind.config.ts
